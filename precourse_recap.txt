@@ -1,0 +1,28 @@
+This is a recap of the precourse work.
+
+Today we revised common terminal command lines such as:
+
+mv commands
+rm commands
+cd commands
+
+Later we had a refresher on basic python fundamentals for example
+
+str
+integ
+boolean
+
+how to create to variables and constants. Use basic functions such as sum, + etc
+
+
+for the remainder of the lesson we had a refresher on Git and GitHub, for example:
+
+git init
+git log
+git status
+git commit 
+git clone
+git push
+
+The purpose of this home is to further reinforce the current learnings on command line, git & github.
+
