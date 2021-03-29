@@ -27,3 +27,5 @@ git push
 The purpose of this home is to further reinforce the current learnings on command line, git & github.
 
 I am just adding an extra line to test my set up is correct.
+
+One last change just for good measure!
